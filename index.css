@@ -1,0 +1,27 @@
+body {
+  margin: 20px;
+  font-family: Tahoma, monospace;
+  background-color: #fbf8f3;
+}
+h2 {
+  padding: 3px;
+  margin: 3px;
+}
+h3 {
+  padding: 3px;
+  margin: 3px;
+}
+h4 {
+  margin-left: 6px;
+}
+p, input, li {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+button {
+  color: green;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
